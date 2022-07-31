@@ -8,3 +8,4 @@
 [Ссылка](https://t.me/+onYatGDyQ6piMTMy)
 
 task_1
+ pull
